@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ayoub El Houdadi. I am 22 years old and have completed my final year of digital development training. I have a strong foundation in full-stack mobile development and IT systems.
+My name is Ayoub El Houdadi. I am 22 years old and have completed my final year of digital development training. I have a strong foundation in full-stack, mobile development and IT systems.
 
 
 ## 🌐 Socials:
